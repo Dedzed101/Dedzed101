@@ -1,5 +1,5 @@
 <h1 align="center">Daniel-Bracamontes</h1>
-<h3 align'"center">Hi, I'm Daniel. I'm a current Oregon State University Computer Science Post-bac student working towards a career in software development.</h3>
+<h3 align'"center">Hi, I'm Daniel. I'm an Oregon State University Computer Science student working towards a career in software development.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
